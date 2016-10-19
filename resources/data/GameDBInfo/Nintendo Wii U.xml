@@ -184,12 +184,12 @@
 		<manufacturer>Nintendo</manufacturer>
 		<year>2014</year>
 		<genre>Action</genre>
-		<rating>Other - NR (Not Rated)</rating>
+		<rating>ESRB - M (Mature) </rating>
 		<enabled>Yes</enabled>
-		<story></story>
+		<story>Bayonetta, awakens after a 500-year sleep near Eggman's tomestone, and finds herself in an unfamiliar area with no memories of who or what she is. Over time, she begins to remember what caused her current predicament. 500 years before the incident that caused Bayonetta's memory loss, there were two factions preserving the balance between darkness and light in the world: the Umbra Witches, who are followers of darkness, and their counterparts, the Lumen Sages, who are followers of light. The factions shared two distinct treasures, the 'Eyes of the World' (separately named the 'Left Eye' and the 'Right Eye') which they used to oversee the just passage of time. Both factions mysteriously disappeared from Vigrid under unknown circumstances. Bayonetta still has an ornate piece of jewelry which contains a small red gem, and believes this gem is the Left Eye of the Eyes of the World. While searching for the Right Eye, she often receives flashbacks that make her remember what caused her current predicament.</story>
 		<dev>PlatinumGames</dev>
-		<score></score>
-		<player></player>
+		<score>4.5</score>
+		<player>1 Player</player>
 	</game>
 	<game name="Bayonetta 2 (USA)" index="" image="">
 		<description>Bayonetta 2 (USA)</description>
@@ -198,12 +198,12 @@
 		<manufacturer>Nintendo</manufacturer>
 		<year>2014</year>
 		<genre>Action</genre>
-		<rating>Other - NR (Not Rated)</rating>
+		<rating>ESRB - M (Mature)</rating>
 		<enabled>Yes</enabled>
-		<story></story>
-		<dev></dev>
-		<score></score>
-		<player></player>
+		<story>Bayonetta is in the middle of Christmas shopping with Enzo when a group of angels attack the city during a stuntplane flyover. Teaming up with fellow witch and friend Jeanne, she is on the verge of winning the battle until a demon summoning goes wrong. Despite Bayonetta being able to put down the demon, Jeanne is attacked, causing her soul to be claimed by the depths of Inferno. At the same time, a Lumen Sage is brought to the present day by a mysterious figure who promises him the chance for revenge</story>
+		<dev>PlatinumGames</dev>
+		<score>5</score>
+		<player>1 Player</player>
 	</game>
 	<game name="Ben 10 - Omniverse (USA)" index="" image="">
 		<description>Ben 10: Omniverse (USA)</description>
